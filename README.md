@@ -2,9 +2,9 @@
 Simple Minecraft Plugin Template in Java using Maven  
 Plantilla para plugin de Minecraft simple en Java utilizando Maven
 
-## Funciones / Functions
+## Functions / Funciones 
 -  Message when starting the plugin / Mensaje al iniciar plugin
--  Mensaje al iniciar plugin / Mensaje al detener plugin
+-  Message when stopping plugin / Mensaje al detener plugin
 ## Technologies / Tecnologías
 - Java
 - Maven
