@@ -1,5 +1,5 @@
 # Minecraft Plugin Template
-Simple Minecraft Plugin Template in Java using Maven
+Simple Minecraft Plugin Template in Java using Maven  
 Plantilla para plugin de Minecraft simple en Java utilizando Maven
 
 ## Funciones / Functions
