@@ -1,10 +1,10 @@
 # Minecraft Plugin Template
-Simple Minecraft Plugin Template in Java using Maven  
-Plantilla para plugin de Minecraft simple en Java utilizando Maven
+Simple Minecraft plugin that regenerates player health using clean code  
+Plugin simple de Minecraft que regenera la salud del jugador utilizando con código limpio
 
 ## Functions / Funciones 
--  Message when starting the plugin / Mensaje al iniciar plugin
--  Message when stopping plugin / Mensaje al detener plugin
+-  Regenerates a player's entire health
+-  Regenera la salud entera a un jugador
 ## Technologies / Tecnologías
 - Java
 - Maven
@@ -17,4 +17,4 @@ Plantilla para plugin de Minecraft simple en Java utilizando Maven
 
 
 ## Video Tutorial
-https://www.youtube.com/watch?v=Pq-jqHESv3Y&list=PLsx2YQd_Op8R9IpTGiP8Ezpw7pIqcAbVV&index=1
+https://www.youtube.com/watch?v=abaDb8vuATg&list=PLsx2YQd_Op8R9IpTGiP8Ezpw7pIqcAbVV&index=2
