@@ -1,3 +1,7 @@
-main: com.milkonight.App
+main: com.milkonight.Main
 name: TestYT
 version: 0.1
+description: Plugin Prueba
+commands:
+  salud:
+    description: Comando para regenerar la salud
