@@ -3,6 +3,8 @@ package com.milkonight.services;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.Player;
 
+import com.milkonight.helper.MensajeHelper;
+
 public class SaludServiceImpl implements SaludService {
 
     @Override
@@ -20,7 +22,8 @@ public class SaludServiceImpl implements SaludService {
         }
 
         int corazones = (int) jugador.getHealth()/2;
-        jugador.sendMessage("Tu salud ha sido regenerada y tienes "+corazones+" corazones");
+        MensajeHelper.enviarMensaje(jugador,"&aTu salud ha sido regenerada y tienes "+corazones+" corazones" );
+        //jugador.sendMessage("Tu salud ha sido regenerada y tienes "+corazones+" corazones");
         // jugador.setHealth(maxHealth);
         // jugador.sendMessage("Tu salud ha sido regenerada");
         
