@@ -17,4 +17,4 @@ Plugin simple de Minecraft que regenera la salud del jugador utilizando con cód
 
 
 ## Video Tutorial
-https://www.youtube.com/watch?v=abaDb8vuATg&list=PLsx2YQd_Op8R9IpTGiP8Ezpw7pIqcAbVV&index=3
+https://www.youtube.com/watch?v=AqXVtv9js9w&list=PLsx2YQd_Op8R9IpTGiP8Ezpw7pIqcAbVV&index=3
