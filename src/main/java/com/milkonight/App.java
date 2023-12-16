@@ -28,7 +28,7 @@ public class App extends JavaPlugin
     }
 
     private void configurarServicios(){
-        eventService = new EventServiceImpl();
+        eventService = new EventServiceImpl(this);
     }
 
     private void registerEventsListener(){
